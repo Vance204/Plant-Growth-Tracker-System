@@ -30,13 +30,13 @@ The Plant Growth Tracker is a  desktop application built with Python and PyQt6 t
 
 # Code Design and Structure
 
-main.py                 # Application entry point - initializes and runs the app
+main.py                 - Application entry point - initializes and runs the app
 
-GUI.py                  # Main window class and UI components
+GUI.py                  - Main window class and UI components
 
-database.py             # Database operations and SQLite management
+database.py             - Database operations and SQLite management
 
-styles.py               # Color definitions and UI styling
+styles.py               - Color definitions and UI styling
 
 # Screenshots 
 <img width="1353" height="696" alt="image" src="https://github.com/user-attachments/assets/baf320dc-4afe-4a34-a26b-329b0bca582d" />
