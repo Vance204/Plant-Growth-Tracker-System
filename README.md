@@ -43,7 +43,6 @@ styles.py               # Color definitions and UI styling
 <img width="1361" height="712" alt="image" src="https://github.com/user-attachments/assets/d6accb94-66e5-4cff-a220-15ecefc93390" />
 <img width="1365" height="696" alt="image" src="https://github.com/user-attachments/assets/50f28067-79fd-4d5e-bf19-11b75722b7d0" />
 <img width="1289" height="382" alt="image" src="https://github.com/user-attachments/assets/8ff34154-6b14-4439-91ed-3015eab71a14" />
-![Uploading image.png…]()
 
 # How to Run the Program
 
@@ -61,7 +60,7 @@ database.py
 
 styles.py
 
-3. Run the Application
+3. Run the Application in any Python-compatible IDE
 
 python main.py
 
